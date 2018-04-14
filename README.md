@@ -1,2 +1,2 @@
 # gitment
-gitment comment
+Gitment comments and images of my blog
